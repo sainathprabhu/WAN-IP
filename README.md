@@ -1,2 +1,2 @@
 # WAN-IP
-Command tool to find WAN IP
+Shell script to find WAN IP
