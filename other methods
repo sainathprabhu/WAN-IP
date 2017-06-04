@@ -1,0 +1,3 @@
+Method 1 = curl ifconfig.me
+Method 2 = wget -q -O - checkip.dyndns.com | grep -Po "[\d\.]+"
+Method 3 = 
