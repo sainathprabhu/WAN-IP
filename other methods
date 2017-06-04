@@ -1,3 +1,3 @@
 Method 1 = curl ifconfig.me
 Method 2 = wget -q -O - checkip.dyndns.com | grep -Po "[\d\.]+"
-Method 3 = 
+Method 3 = dig +short myip.opendns.com @resolver1.opendns.com
